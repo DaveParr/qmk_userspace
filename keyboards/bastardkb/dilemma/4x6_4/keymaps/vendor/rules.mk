@@ -1,3 +1,3 @@
 VIA_ENABLE = yes
 ENCODER_MAP_ENABLE = yes
-TAP_DANCE_ENABLE = yes
+POINTING_DEVICE_DRIVER = cirque_pinnacle_spi
